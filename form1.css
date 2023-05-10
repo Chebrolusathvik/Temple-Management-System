@@ -1,0 +1,59 @@
+h1{
+    position: relative;
+    text-align: center;
+    right: 350px;
+}
+.center1{
+    position: relative;
+    left: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("somanath.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    }
+
+.register{
+    position: relative;
+    left: 100px;
+}
+.center1{
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+.fname{
+    position: relative;
+
+}
+.n3{
+    position: relative;
+    left: 30px;
+}
+.n4{
+    position: relative;
+    left: 20px;
+}
+.size{
+    font-size: 80px;
+}
+.speed{
+    color:brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.f1{
+    font-size: 30px;
+    position: relative;
+    right: 150px;
+    color: darkslateblue;
+}
+.p2{
+    color:darkviolet
+}
+

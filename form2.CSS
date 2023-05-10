@@ -1,0 +1,63 @@
+h1{
+    position: relative;
+    left:450px;
+    color: mediumpurple;
+
+}
+.form{
+    position: relative;
+    top: 100px;
+    left: 450px;
+}
+.login{
+    position: relative;
+    left: 100px;
+}
+body{
+    background-image: url("somanath.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+
+}
+.forgot_password{
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+.pass{
+    position: relative;
+    left: 22px;
+}
+.home{
+    position: absolute;
+    bottom: 150px;
+    left: 200px;
+}
+.page{
+    position: relative;
+    left: 400px;
+    top: 100px;
+    color: green;
+}
+.home1{
+    position: relative;
+    left: 500px;
+    top: 110px;
+}
+.home3{
+    position: relative;
+    left: 500px;
+    top: 80px;
+}
+.home2{
+    position: relative;
+    left:450px;
+    top: 70px;
+}
+.home4{
+    position: relative;
+    left:500px;
+    top: 100px;
+}

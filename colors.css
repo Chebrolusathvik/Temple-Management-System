@@ -1,0 +1,85 @@
+
+header nav ul {
+  display: inline flex;
+  flex-direction: row;
+  text-align: center;
+}
+.ul{
+  position: relative;
+  text-align: none;
+  left: 500px;
+}
+.ul1{
+  position: relative;
+  left: 250px;
+}
+.ul2{
+  position: relative;
+  left: 300px;
+}
+.ul3{
+  position: relative;
+  left: 530px;
+  bottom: 20px;
+  
+}
+h3{
+  position: relative;
+  left: 30px;
+}
+h2{
+  position: relative;
+  left:180px;
+  
+}
+.tb{
+  position: relative;
+  text-align: left;
+  bottom:80px;
+  left:300px;
+
+
+  
+}
+.ta{
+  position: relative;
+  text-align: left;
+  left:150px;
+  bottom: 5px;
+
+}
+.p1{
+  position: relative;
+  bottom: 50px;
+}
+.img1{
+  position: relative;
+  width: 500px;
+}
+*{
+  background-color:#F6C391;
+}
+hr{
+  color: whitesmoke;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:5px;
+  border-color: grey;
+  position: relative;
+  right: 500px;
+
+
+}
+.home5{
+  position: relative;
+  left: 400px;
+  bottom: 30px;
+}
+.contact{
+  position: relative;
+  left: 400px;
+  bottom: 41px;
+}
+
+
